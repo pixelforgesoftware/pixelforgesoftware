@@ -1,6 +1,6 @@
 <div align="center">
 
-![Pixel Forge Software](banner.svg)
+![Pixel Forge Software](banner.png)
 
 **`[ DESARROLLO DE SISTEMAS · MARKETING DIGITAL · SOLUCIONES PARA PYMEs ]`**
 
